@@ -1,0 +1,6 @@
+framework module PLUDiagnose {
+  umbrella header "PLUDiagnose.h"
+
+  export *
+  module * { export * }
+}
