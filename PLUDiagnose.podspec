@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PLUDiagnose"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "PLUDiagnose"
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                    龙珠直播的PLUDiagnose
+                    龙珠直播的PLUDiagnose（修复iPhone x下获取startusbar crash问题）
                    DESC
 
   s.homepage     = "https://github.com/LongzhuLive/PLUDiagnose"
